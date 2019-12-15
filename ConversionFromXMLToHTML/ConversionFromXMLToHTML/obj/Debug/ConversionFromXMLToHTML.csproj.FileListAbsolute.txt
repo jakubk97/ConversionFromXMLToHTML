@@ -1,0 +1,5 @@
+C:\Users\Kuba\Desktop\ConversionFromXMLToHTML\ConversionFromXMLToHTML\bin\Debug\ConversionFromXMLToHTML.exe
+C:\Users\Kuba\Desktop\ConversionFromXMLToHTML\ConversionFromXMLToHTML\bin\Debug\ConversionFromXMLToHTML.pdb
+C:\Users\Kuba\Desktop\ConversionFromXMLToHTML\ConversionFromXMLToHTML\obj\Debug\ConversionFromXMLToHTML.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\ConversionFromXMLToHTML\ConversionFromXMLToHTML\obj\Debug\ConversionFromXMLToHTML.exe
+C:\Users\Kuba\Desktop\ConversionFromXMLToHTML\ConversionFromXMLToHTML\obj\Debug\ConversionFromXMLToHTML.pdb
